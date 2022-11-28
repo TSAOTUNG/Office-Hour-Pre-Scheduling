@@ -1,5 +1,6 @@
 # Office-Hour-Pre-Scheduling
 Description
+
 Since the midterm exam for Data Structures is around the corner, many students in the class start making appointments with the TAs to ask questions. However, there are only a limited number of TAs in the class. One TA can only deal with one appointment at a time. Therefore, we need a scheduling system to arrange appointments during the office hour.
 
 In the system, there is a timeline with time units starting from 0. The timeline records a span of office hour, which contains the TAs’ working time. Students can try to schedule their appointments within TAs’ working time. The rules for appointment scheduling are as follows.
